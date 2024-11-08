@@ -11,9 +11,8 @@
 
 - 💬 Ask me about **HTML, CSS, Java-Script, C-Language**
 
-- 📫 How to reach me **yashwanthgowdaksyashugowda@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **yashwanthgowdaksyashugowda@gmail.com**
 <p align="left">
 </p>
 
